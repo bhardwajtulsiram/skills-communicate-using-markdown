@@ -13,8 +13,10 @@ String myVar = "Hello, world!";
 System.out.println(myVar);
 ```
 
-
-
+- [x] Update syntax is required
+- [x] modifications item is complete
+- [ ] Committing changes is pending
+- [ ] This item is not complete
 
 
 Added Header 1 content
